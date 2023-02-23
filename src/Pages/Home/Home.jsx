@@ -5,8 +5,8 @@ import Footer from "../../Components/Footer/Footer";
 const Home = ()=>{
 
     <h2>soy Home</h2>
-    let nombre = "vanesa";
-    let apellido= "lopez";
+    let nombre = "maria";
+    let apellido= "perez";
     return(
         <>        
         <Navbar />
